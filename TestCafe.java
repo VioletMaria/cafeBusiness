@@ -11,7 +11,7 @@ public class TestCafe {
     */
       CafeUtil appTest = new CafeUtil();
 
-      int streak = appTest.getStreakGoal();
+      // int streak = appTest.getStreakGoal();
     	
         /* ============ App Test Cases ============= */
     
